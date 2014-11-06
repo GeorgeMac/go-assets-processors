@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/GeorgeMac/go-assets-processors",
+	"GoVersion": "go1.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.2-21-g7c8f3c1",
+			"Rev": "7c8f3c1dcc7e0f87c62af34ee193fc3251f6d8a4"
+		}
+	]
+}
