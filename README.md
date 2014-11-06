@@ -8,4 +8,4 @@ It it intended to contain packages to wrap third party libs for producing `markd
 
 ## Currently Support
 
-1. russross [blackfriday](https://github.com/russross/blackfriday) wrapper (see [markdown](https://github.com/GeorgeMac/go-assets-processors/markdown))
+1. russross [blackfriday](https://github.com/russross/blackfriday) wrapper (see [markdown](https://github.com/GeorgeMac/go-assets-processors/tree/master/markdown))
